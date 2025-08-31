@@ -1,5 +1,5 @@
 # Hi, I'm Megh Patel 👋
-# 💫 About Me:
+
 A coder building web and Python projects. I enjoy creating interactive interfaces, small games, and learning new technologies through hands-on projects.
 
 
