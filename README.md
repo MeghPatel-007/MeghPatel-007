@@ -1,46 +1,20 @@
 # Hi, I'm Megh Patel 👋
 
-Welcome to my GitHub! I am a passionate coder and front-end enthusiast, building **web and Python projects** for learning, practice, and personal exploration.
+# 💫 About Me:
+A coder building web and Python projects. I enjoy creating interactive interfaces, small games, and learning new technologies through hands-on projects.
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_meghpatel_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meghpatel007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meghpatel0009@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MeghPatel-007&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MeghPatel-007&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghPatel-007&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MeghPatel-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Skills
-- **Languages:** HTML, CSS, JavaScript, Python  
-- **Frameworks/Libraries:** React, Tkinter  
-- **Tools:** Git, VS Code  
-- **Concepts:** Front-end development, API integration, GUI design
-
----
-
-## 💻 Projects
-
-### **Web Projects**
-- [**Amazon Clone**](https://github.com/MeghPatel-007/amazon) – HTML + CSS, static landing page  
-- [**iPhone Calculator**](https://github.com/MeghPatel-007/iphone-calculator) – HTML, CSS, JS, fully functional calculator UI  
-- [**Instagram Login Page**](https://github.com/MeghPatel-007/instagram-login) – HTML + CSS, static, practice project  
-- [**Mode Changer**](https://github.com/MeghPatel-007/mode-changer) – HTML, CSS, JS, toggle light/dark mode  
-- [**Netflix Landing Page**](https://github.com/MeghPatel-007/netflix) – HTML, CSS, JS, responsive landing page  
-- [**LaceUp**](https://github.com/MeghPatel-007/laceup) – HTML + CSS, multi-page personal e-commerce concept  
-- [**Gemini Clone**](https://github.com/MeghPatel-007/gemini-clone) – React + API integration, responsive frontend clone
-
-### **Python Projects**
-- [**Clock**](https://github.com/MeghPatel-007/clock) – Tkinter, digital clock with date and AM/PM  
-- [**Rent Calculator**](https://github.com/MeghPatel-007/rent-calculator) – Terminal-based, splits rent and bills per person  
-- [**Rock Paper Scissors**](https://github.com/MeghPatel-007/rps-python) – Terminal-based game, user vs computer  
-- [**Text Editor**](https://github.com/MeghPatel-007/text-editor) – Tkinter-based basic text editor  
-- [**Tic Tac Toe**](https://github.com/MeghPatel-007/tic-tac-toe-python) – Tkinter-based, two-player game  
-- [**To-Do List**](https://github.com/MeghPatel-007/todo-list) – Terminal-based task manager
-
-### **Web Games**
-- [**Rock Paper Scissors Web**](https://github.com/MeghPatel-007/rps-web) – HTML, CSS, JS, interactive game  
-- [**Tic Tac Toe Web**](https://github.com/MeghPatel-007/tic-tac-toe-web) – HTML, CSS, JS, interactive game
-
----
-
-## 📫 Connect with Me
-- GitHub: [MeghPatel-007](https://github.com/MeghPatel-007)
-
----
-
-## ⚡ Fun Fact
-I enjoy building **creative interfaces and small games** while learning new technologies. Each project is a stepping stone to mastering web and Python development.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
