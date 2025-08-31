@@ -1,49 +1,46 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hi, I'm Megh Patel 👋
 
-###
+Welcome to my GitHub! I am a passionate coder and front-end enthusiast, building **web and Python projects** for learning, practice, and personal exploration.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript, Python  
+- **Frameworks/Libraries:** React, Tkinter  
+- **Tools:** Git, VS Code  
+- **Concepts:** Front-end development, API integration, GUI design
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## 💻 Projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### **Web Projects**
+- [**Amazon Clone**](https://github.com/MeghPatel-007/amazon) – HTML + CSS, static landing page  
+- [**iPhone Calculator**](https://github.com/MeghPatel-007/iphone-calculator) – HTML, CSS, JS, fully functional calculator UI  
+- [**Instagram Login Page**](https://github.com/MeghPatel-007/instagram-login) – HTML + CSS, static, practice project  
+- [**Mode Changer**](https://github.com/MeghPatel-007/mode-changer) – HTML, CSS, JS, toggle light/dark mode  
+- [**Netflix Landing Page**](https://github.com/MeghPatel-007/netflix) – HTML, CSS, JS, responsive landing page  
+- [**LaceUp**](https://github.com/MeghPatel-007/laceup) – HTML + CSS, multi-page personal e-commerce concept  
+- [**Gemini Clone**](https://github.com/MeghPatel-007/gemini-clone) – React + API integration, responsive frontend clone
 
-###
+### **Python Projects**
+- [**Clock**](https://github.com/MeghPatel-007/clock) – Tkinter, digital clock with date and AM/PM  
+- [**Rent Calculator**](https://github.com/MeghPatel-007/rent-calculator) – Terminal-based, splits rent and bills per person  
+- [**Rock Paper Scissors**](https://github.com/MeghPatel-007/rps-python) – Terminal-based game, user vs computer  
+- [**Text Editor**](https://github.com/MeghPatel-007/text-editor) – Tkinter-based basic text editor  
+- [**Tic Tac Toe**](https://github.com/MeghPatel-007/tic-tac-toe-python) – Tkinter-based, two-player game  
+- [**To-Do List**](https://github.com/MeghPatel-007/todo-list) – Terminal-based task manager
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### **Web Games**
+- [**Rock Paper Scissors Web**](https://github.com/MeghPatel-007/rps-web) – HTML, CSS, JS, interactive game  
+- [**Tic Tac Toe Web**](https://github.com/MeghPatel-007/tic-tac-toe-web) – HTML, CSS, JS, interactive game
 
-###
+---
 
-<br clear="both">
+## 📫 Connect with Me
+- GitHub: [MeghPatel-007](https://github.com/MeghPatel-007)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## ⚡ Fun Fact
+I enjoy building **creative interfaces and small games** while learning new technologies. Each project is a stepping stone to mastering web and Python development.
