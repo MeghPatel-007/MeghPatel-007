@@ -13,6 +13,9 @@ A coder building web and Python projects. I enjoy creating interactive interface
 ![](https://nirzak-streak-stats.vercel.app/?user=MeghPatel-007&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghPatel-007&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🧩 Holopin Badges:
+[![Holopin Badges](https://holopin.me/meghpatel007)](https://holopin.io/@meghpatel007)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MeghPatel-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
