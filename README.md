@@ -2,6 +2,13 @@
 
 A coder building web and Python projects. I enjoy creating interactive interfaces, small games, and learning new technologies through hands-on projects.
 
+## 🌐 Portfolio
+
+[Visit My Portfolio](https://megh-patel-portfolio.vercel.app/)
+
+A personal website where I showcase my projects, skills, and experience.
+
+<img width="1919" height="1079" alt="Screenshot 2026-03-08 004815" src="https://github.com/user-attachments/assets/ad1e7789-1821-4460-9431-c03e8c9a5245" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_meghpatel_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meghpatel007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meghpatel0009@gmail.com) 
