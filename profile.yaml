@@ -1,0 +1,29 @@
+github_username: MeghPatel-007
+display_name: Megh Patel
+role: Computer Engineering Student
+location: India
+education: Birla Vishvakarma Mahavidyalaya
+focus: AI • Full Stack • Open Source
+portfolio_url: https://megh-patel-portfolio.vercel.app
+
+sections:
+  Languages:
+    - C++
+    - Python
+    - JavaScript
+
+  Frameworks:
+    - React
+    - Node.js
+    - Express
+    - Flutter
+
+  Databases:
+    - MongoDB
+    - PostgreSQL
+    - Supabase
+
+  Tools:
+    - Git
+    - Docker
+    - Linux
