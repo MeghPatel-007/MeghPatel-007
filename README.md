@@ -31,12 +31,12 @@ A personal website showcasing my projects, skills, and experience.
 
 ## 💻 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**Gemini Clone**](https://github.com/MeghPatel-007/gemini-clone) | Responsive frontend clone of Google's Gemini AI with API integration. | React, JavaScript, CSS |
-| [**LaceUp**](https://github.com/MeghPatel-007/laceup) | Multi-page modern personal e-commerce website design. | HTML, CSS, JavaScript |
-| [**Netflix Landing Page**](https://github.com/MeghPatel-007/netflix) | Fully responsive clone of the Netflix home landing page. | HTML, CSS, JavaScript |
-| [**Rent Calculator**](https://github.com/MeghPatel-007/rent-calculator) | Terminal-based utility to calculate and split bills and rent per person. | Python |
+| Project                                                                 | Description                                                              | Tech Stack             |
+| :---------------------------------------------------------------------- | :----------------------------------------------------------------------- | :--------------------- |
+| [**Gemini Clone**](https://github.com/MeghPatel-007/gemini-clone)       | Responsive frontend clone of Google's Gemini AI with API integration.    | React, JavaScript, CSS |
+| [**LaceUp**](https://github.com/MeghPatel-007/laceup)                   | Multi-page modern personal e-commerce website design.                    | HTML, CSS, JavaScript  |
+| [**Netflix Landing Page**](https://github.com/MeghPatel-007/netflix)    | Fully responsive clone of the Netflix home landing page.                 | HTML, CSS, JavaScript  |
+| [**Rent Calculator**](https://github.com/MeghPatel-007/rent-calculator) | Terminal-based utility to calculate and split bills and rent per person. | Python                 |
 
 ---
 
@@ -61,15 +61,19 @@ A personal website showcasing my projects, skills, and experience.
 ## 💻 Tech Stack
 
 ### 🔤 Languages
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ### 🎨 Frontend
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Databases
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 ### 🛠️ Tools & Design
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
 ---
@@ -88,7 +92,6 @@ A personal website showcasing my projects, skills, and experience.
 
 ---
 
-
 ## 🧩 Holopin Badges
 
 <p align="center">
@@ -96,3 +99,27 @@ A personal website showcasing my projects, skills, and experience.
     <img src="https://holopin.me/meghpatel007" alt="Holopin Badges" />
   </a>
 </p>
+
+---
+
+## 🏆 GSSoC '26 Achievements & Badges
+
+<p align="center">
+  <img src="./badges/gssoc-badge-elite.png" alt="Elite" width="110" height="110" />
+  <img src="./badges/gssoc-badge-power_contributor.png" alt="Power Contributor" width="110" height="110" />
+  <img src="./badges/gssoc-badge-on_a_roll.png" alt="Rare Merged" width="110" height="110" />
+  <img src="./badges/gssoc-badge-rising_star.png" alt="Rising Star" width="110" height="110" />
+  <img src="./badges/gssoc-badge-bounty_hunter.png" alt="Bounty Hunter" width="110" height="110" />
+  <img src="./badges/gssoc-badge-building_momentum.png" alt="Building Momentum" width="110" height="110" />
+  <img src="./badges/gssoc-badge-first_steps.png" alt="First Step" width="110" height="110" />
+  <img src="./badges/gssoc-badge-discord_verified.png" alt="Discord Verified" width="110" height="110" />
+  <img src="./badges/gssoc-badge-profile_complete.png" alt="Profile Complete" width="110" height="110" />
+  <img src="./badges/gssoc-badge-point_scorer.png" alt="Point Scorer" width="110" height="110" />
+  <img src="./badges/gssoc-badge-bounty_master.png" alt="Master Bounty" width="110" height="110" />
+  <img src="./badges/gssoc-badge-role_contributor.png" alt="Role Contributor" width="110" height="110" />
+  <img src="./badges/gssoc-badge-getting_started.png" alt="5 PR Merge" width="110" height="110" />
+  <img src="./badges/ai.png" alt="AI Agents Track" width="110" height="110" />
+  <img src="./badges/contributor.png" alt="Contributor" width="110" height="110" />
+  <img src="./badges/open.png" alt="Open" width="110" height="110" />
+</p>
+
