@@ -33,10 +33,10 @@ A personal website showcasing my projects, skills, and experience.
 
 | Project                                                                 | Description                                                              | Tech Stack             |
 | :---------------------------------------------------------------------- | :----------------------------------------------------------------------- | :--------------------- |
-| [**Gemini Clone**](https://github.com/MeghPatel-007/gemini-clone)       | Responsive frontend clone of Google's Gemini AI with API integration.    | React, JavaScript, CSS |
-| [**LaceUp**](https://github.com/MeghPatel-007/laceup)                   | Multi-page modern personal e-commerce website design.                    | HTML, CSS, JavaScript  |
-| [**Netflix Landing Page**](https://github.com/MeghPatel-007/netflix)    | Fully responsive clone of the Netflix home landing page.                 | HTML, CSS, JavaScript  |
-| [**Rent Calculator**](https://github.com/MeghPatel-007/rent-calculator) | Terminal-based utility to calculate and split bills and rent per person. | Python                 |
+| [**Gemini Clone**](https://github.com/MeghPatel-007/Gemini)       | Responsive frontend clone of Google's Gemini AI with API integration.    | React, JavaScript, CSS |
+| [**LaceUp**](https://github.com/MeghPatel-007/LaceUp)                   | Multi-page modern personal e-commerce website design.                    | HTML, CSS, JavaScript  |
+| [**Netflix Landing Page**](https://github.com/MeghPatel-007/Netflix)    | Fully responsive clone of the Netflix home landing page.                 | HTML, CSS, JavaScript  |
+| [**Rent Calculator**](https://github.com/MeghPatel-007/Rent-Calculator) | Terminal-based utility to calculate and split bills and rent per person. | Python                 |
 
 ---
 
