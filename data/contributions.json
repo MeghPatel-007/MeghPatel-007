@@ -1,32 +1,28 @@
 {
   "username": "MeghPatel-007",
-  "generated_at": "2026-10-31T12:37:23Z",
+  "generated_at": "2026-11-01T13:29:03Z",
   "range": {
-    "start": "2025-10-26",
-    "end": "2026-10-31"
+    "start": "2025-11-02",
+    "end": "2026-11-01"
   },
-  "total_contributions": 974,
-  "active_days": 247,
+  "total_contributions": 976,
+  "active_days": 248,
   "avg_per_active_day": 3.9,
   "current_streak": {
-    "length": 126,
+    "length": 127,
     "start": "2026-06-27",
-    "end": "2026-10-30"
+    "end": "2026-10-31"
   },
   "longest_streak": {
-    "length": 126,
+    "length": 127,
     "start": "2026-06-27",
-    "end": "2026-10-30"
+    "end": "2026-10-31"
   },
   "best_day": {
     "date": "2026-06-18",
     "count": 26
   },
   "monthly": [
-    {
-      "month": "2025-10",
-      "total": 0
-    },
     {
       "month": "2025-11",
       "total": 37
@@ -73,38 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 138
+      "total": 140
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 0
-    },
-    {
-      "date": "2025-10-27",
-      "count": 0
-    },
-    {
-      "date": "2025-10-28",
-      "count": 0
-    },
-    {
-      "date": "2025-10-29",
-      "count": 0
-    },
-    {
-      "date": "2025-10-30",
-      "count": 0
-    },
-    {
-      "date": "2025-10-31",
-      "count": 0
-    },
-    {
-      "date": "2025-11-01",
-      "count": 0
-    },
     {
       "date": "2025-11-02",
       "count": 0
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-31",
+      "count": 2
+    },
+    {
+      "date": "2026-11-01",
       "count": 0
     }
   ]
